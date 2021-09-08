@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/sohamsshah/sodium-infinite-scroller" rel="noopener" target="_blank"><img width="150" src="./src/assets/sodiumInfiniteScrollerLogo.png" alt="sodium infinite scroller Logo"></a></p>
+  <a href="https://github.com/sohamsshah/sodium-infinite-scroller" rel="noopener" target="_blank"><img width="150" src="https://i.imgur.com/BaN22lK.png" alt="sodium infinite scroller Logo"></a></p>
 </p>
 
 <h1 align="center"><b>Sodium Infinite Scroller ♾ </b></h1>
 
 <p align="center">
-<a href="https://github.com/sohamsshah/sodium-infinite-scroller/blob/master/LICENSE" target="blank">
-<img src="https://img.shields.io/github/license/sohamsshah/sodium-infinite-scroller?style=flat-square" alt="pixelsHash licence" />
+<a href="https://github.com/sohamsshah/sodium-infinite-scroller/blob/main/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/sohamsshah/pixelsHash?style=flat-square" alt="sodium licence" />
 </a>
 <a href="https://github.com/sohamsshah/sodium-infinite-scroller/fork" target="blank">
 <img src="https://img.shields.io/github/forks/sohamsshah/sodium-infinite-scroller?style=flat-square" alt="sodium-infinite-scroller forks"/>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-    <a href="https://pixels-hash.vercel.app/" target="blank">sodium-infinite-scroller</a>
+    <a href="https://www.npmjs.com/package/sodium-infinite-scroller" target="blank">sodium-infinite-scroller</a>
     ·
     <a href="https://github.com/sohamsshah/sodium-infinite-scroller/issues/new/choose">Report Bug</a>
     ·
