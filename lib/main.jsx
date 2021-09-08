@@ -2,11 +2,11 @@ import React, { useEffect, useRef } from "react";
 import { useIntersectionObserver } from "./hooks/useIntersectionObserver";
 const InfiniteScroll = ({
   dataLength,
-  endContent,
   hasMore = false,
   loadMore,
   loader,
   threshold = 1,
+  endContent,
   children,
 }) => {
   const ref = useRef(null);
